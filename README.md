@@ -2,7 +2,7 @@
 Tugas Akhir ADBO.
 Adalah tugas membuat game ular tangga dengan merubah java ke php.
 Kelompok kami:
-Gabriel Radewa
+Gabriel Radewa<br>
 Ricky Suryadi
 Renaldi Nugroho
 Alfian Prabowo
