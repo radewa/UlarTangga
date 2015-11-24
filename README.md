@@ -9,3 +9,7 @@ Alfian Prabowo<br>
 Erlangga Laimena<br>
 Ilham Adrian<br>
 Risfan Syarid<br>
+<br>
+Home.php bertugas untuk melakukan inisiasi permainan.<br>
+UlarTangga.php bertugas memproses permainan nya dari awal sampai finsih.<br>
+style.css berisi pengaturan css UlarTangga.php<br>
